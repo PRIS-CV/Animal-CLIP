@@ -1,0 +1,20 @@
+DATA:
+    ROOT: '/mnt/sdb/data/jingyinuo/LoTE-Animal/data'
+    TRAIN_FILE: '/mnt/sdb/data/jingyinuo/LoTE-Animal/annotation/LoTE_train.txt' #00 /mnt/sdb/data/jingyinuo/mmnet/annotation/composition/train.csv
+    VAL_FILE: '/mnt/sdb/data/jingyinuo/LoTE-Animal/annotation/LoTE_test.txt'
+    DATASET: LoTE
+    NUM_FRAMES: 8
+    NUM_CLASSES: 21
+    LABEL_LIST: '/mnt/sdb/data/jingyinuo/LoTE-Animal/annotation/LoTE_label.csv'
+    MULTI_CLASSES: False
+    NUM_ANIMAL_CLASSES: 11
+    ANIMAL_LABEL_LIST: '/mnt/sdb/data/jingyinuo/LoTE-Animal/annotation/animal_label.csv'
+    RELATION_FILE: '/mnt/sdb/data/jingyinuo/LoTE-Animal/annotation/relation.txt'
+MODEL:
+    ARCH: ViT-B/16
+    MODEL_NAME: 'XCLIP'
+TRAIN:
+    BATCH_SIZE:  16
+    LOSS: 'ce'
+    ACCUMULATION_STEPS: 4
+    EPOCHS: 30

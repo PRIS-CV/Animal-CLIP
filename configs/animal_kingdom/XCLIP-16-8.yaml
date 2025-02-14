@@ -1,0 +1,20 @@
+DATA:
+    ROOT: '/mnt/sdb/data/jingyinuo/animal_kingdom/video'
+    TRAIN_FILE: '/mnt/sdb/data/jingyinuo/animal_kingdom/train_all.txt' #_all
+    VAL_FILE: '/mnt/sdb/data/jingyinuo/animal_kingdom/test_animal.txt' # test_animal.txt
+    DATASET: 'AK'
+    NUM_FRAMES: 8
+    NUM_CLASSES: 140
+    LABEL_LIST: '/mnt/sdb/data/jingyinuo/animal_kingdom/label.csv'
+    MULTI_CLASSES: True
+    NUM_ANIMAL_CLASSES: 897
+    ANIMAL_LABEL_LIST: '/mnt/sdb/data/jingyinuo/animal_kingdom/animal_label.csv'
+    RELATION_FILE: '/mnt/sdb/data/jingyinuo/animal_kingdom/animal-action-relation.txt'
+MODEL:
+    ARCH: ViT-B/16
+    MODEL_NAME: 'XCLIP'
+TRAIN:
+    BATCH_SIZE:  16
+    LOSS: 'ce'
+    ACCUMULATION_STEPS: 4
+    EPOCHS: 30

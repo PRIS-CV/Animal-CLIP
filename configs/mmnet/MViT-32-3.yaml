@@ -1,0 +1,54 @@
+DATA:
+    ROOT: '/mnt/sdb/data/jingyinuo/mmnet/trimmed_video'
+    TRAIN_FILE: '/mnt/sdb/data/jingyinuo/mmnet/annotation/composition/train.txt' #00 /mnt/sdb/data/jingyinuo/mmnet/annotation/composition/train.csv
+    VAL_FILE: '/mnt/sdb/data/jingyinuo/mmnet/annotation/composition/test.txt'
+    DATASET: mmnet
+    NUM_FRAMES: 16
+    NUM_CLASSES: 12
+    LABEL_LIST: '/mnt/sdb/data/jingyinuo/mmnet/annotation/behavior_to_id.csv'
+    MULTI_CLASSES: False
+    NUM_ANIMAL_CLASSES: 173
+    ANIMAL_LABEL_LIST: '/mnt/sdb/data/jingyinuo/mmnet/annotation/genus_to_id.csv'
+    INPUT_CHANNEL_NUM: [3]
+    INPUT_SIZE: 224
+    RELATION_FILE: '/mnt/sdb/data/jingyinuo/mmnet/annotation/composition/relation.txt'
+MODEL:
+    ARCH: mvit
+    DROPOUT_RATE: 0.0
+    MODEL_NAME: 'MViT'
+MVIT:
+  ZERO_DECAY_POS_CLS: False
+  SEP_POS_EMBED: True
+  DEPTH: 16
+  NUM_HEADS: 1
+  EMBED_DIM: 96
+  PATCH_KERNEL: (3, 7, 7)
+  PATCH_STRIDE: (2, 4, 4)
+  PATCH_PADDING: (1, 3, 3)
+  MLP_RATIO: 4.0
+  QKV_BIAS: True
+  DROPPATH_RATE: 0.2
+  NORM: "layernorm"
+  MODE: "conv"
+  CLS_EMBED_ON: True
+  DIM_MUL: [[1, 2.0], [3, 2.0], [14, 2.0]]
+  HEAD_MUL: [[1, 2.0], [3, 2.0], [14, 2.0]]
+  POOL_KV_KERNEL: [[3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [1, 1, 1], [1, 1, 1]]
+  POOL_KV_STRIDE: [[1, 8, 8], [1, 4, 4], [1, 4, 4], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 2, 2], [1, 1, 1], [1, 1, 1]]
+  POOL_Q_KERNEL: [[], [3, 3, 3], [], [3, 3, 3], [], [], [], [], [], [], [], [], [], [], [3, 3, 3], []]
+  POOL_Q_STRIDE: [[], [1, 2, 2], [], [1, 2, 2], [], [], [], [], [], [], [], [], [], [], [1, 2, 2], []]
+  POOL_SKIP_KERNEL: [[], [1, 3, 3], [], [1, 3, 3], [], [], [], [], [], [], [], [], [], [], [1, 3, 3], []]
+  POOL_SKIP_STRIDE: [[], [1, 2, 2], [], [1, 2, 2], [], [], [], [], [], [], [], [], [], [], [1, 2, 2], []]
+TRAIN:
+    BATCH_SIZE:  16
+    LOSS: ce
+    ACCUMULATION_STEPS: 4
+    BASE_LR_SCALE_NUM_SHARDS: True
+    LR: 0.0001
+    LR_POLICY: cosine
+    EPOCHS: 200
+    MOMENTUM: 0.9
+    WEIGHT_DECAY: 0.05
+    WARMUP_EPOCHS: 30.0
+    OPTIMIZER: adamw
+NUM_SHARDS: 1

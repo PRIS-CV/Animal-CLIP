@@ -1,0 +1,46 @@
+DATA:
+    ROOT: '/mnt/sdb/data/jingyinuo/mmnet/trimmed_video'
+    TRAIN_FILE: '/mnt/sdb/data/jingyinuo/mmnet/annotation/composition/train.txt' #00 /mnt/sdb/data/jingyinuo/mmnet/annotation/composition/train.csv
+    VAL_FILE: '/mnt/sdb/data/jingyinuo/mmnet/annotation/composition/test.txt'
+    DATASET: mmnet
+    NUM_FRAMES: 8
+    NUM_CLASSES: 12
+    LABEL_LIST: '/mnt/sdb/data/jingyinuo/mmnet/annotation/behavior_to_id.csv'
+    MULTI_CLASSES: False
+    NUM_ANIMAL_CLASSES: 173
+    ANIMAL_LABEL_LIST: '/mnt/sdb/data/jingyinuo/mmnet/annotation/genus_to_id.csv'
+    INPUT_CHANNEL_NUM: [3]
+    INPUT_SIZE: 224
+    RELATION_FILE: '/mnt/sdb/data/jingyinuo/mmnet/annotation/composition/relation.txt'
+MODEL:
+    ARCH: i3d
+    DROPOUT_RATE: 0.5
+    HEAD_ACT: sigmoid
+    MODEL_NAME: 'X3D'
+    RESUME: '/mnt/sdb/data/jingyinuo/results/animal_kingdom/X3D/x3d_l.pyth'
+RESNET:
+    ZERO_INIT_FINAL_BN: True
+    TRANS_FUNC: x3d_transform
+    STRIDE_1X1: False
+X3D:
+    WIDTH_FACTOR: 2.0
+    DEPTH_FACTOR: 5.0
+    BOTTLENECK_FACTOR: 2.25
+    DIM_C5: 2048
+    DIM_C1: 12
+TRAIN:
+    LR: 0.05
+    BATCH_SIZE: 16
+    LOSS: ce
+    ACCUMULATION_STEPS: 4
+    EPOCHS: 200
+    LR_POLICY: cosine
+    OPTIMIZER: sgd
+    WEIGHT_DECAY: 5e-5
+    WARMUP_EPOCHS: 35.0
+BN:
+    USE_PRECISE_STATS: True
+    NUM_BATCHES_PRECISE: 200
+    NORM_TYPE: sync_batchnorm
+    NUM_SYNC_DEVICES: 1 #4
+    WEIGHT_DECAY: 0.0

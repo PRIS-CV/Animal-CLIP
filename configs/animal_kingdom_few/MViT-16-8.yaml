@@ -1,0 +1,54 @@
+DATA:
+    ROOT: '/mnt/sdb/data/jingyinuo/animal_kingdom/video'
+    TRAIN_FILE: '/mnt/sdb/data/jingyinuo/animal_kingdom/train2.txt' #00
+    VAL_FILE: '/mnt/sdb/data/jingyinuo/animal_kingdom/test2.txt'
+    DATASET: 'AK'
+    NUM_FRAMES: 1
+    NUM_CLASSES: 14
+    LABEL_LIST: '/mnt/sdb/data/jingyinuo/animal_kingdom/label2.csv'
+    MULTI_CLASSES: True
+    NUM_ANIMAL_CLASSES: 958
+    ANIMAL_LABEL_LIST: '/mnt/sdb/data/jingyinuo/animal_kingdom/animal_label.csv'
+    INPUT_CHANNEL_NUM: [3]
+    INPUT_SIZE: 224
+MODEL:
+    ARCH: mvit
+    DROPOUT_RATE: 0.0
+    MODEL_NAME: 'MViT'
+MVIT:
+    PATCH_2D: True
+    ZERO_DECAY_POS_CLS: False
+    MODE: "conv"
+    CLS_EMBED_ON: True
+    PATCH_KERNEL: [7, 7]
+    PATCH_STRIDE: [4, 4]
+    PATCH_PADDING: [3, 3]
+    EMBED_DIM: 96
+    NUM_HEADS: 1
+    MLP_RATIO: 4.0
+    QKV_BIAS: True
+    DROPPATH_RATE: 0.1
+    DEPTH: 16
+    NORM: "layernorm"
+    DIM_MUL: [[1, 2.0], [3, 2.0], [14, 2.0]]
+    HEAD_MUL: [[1, 2.0], [3, 2.0], [14, 2.0]]
+    POOL_KV_KERNEL: [[1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3], [1, 3, 3]]
+    POOL_KV_STRIDE: [[1, 4, 4], [1, 2, 2], [1, 2, 2], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1]]
+    POOL_Q_KERNEL: [[], [1, 3, 3], [], [1, 3, 3], [], [], [], [], [], [], [], [], [], [], [1, 3, 3], []]
+    POOL_Q_STRIDE: [[], [1, 2, 2], [], [1, 2, 2], [], [], [], [], [], [], [], [], [], [], [1, 2, 2], []]
+    POOL_SKIP_KERNEL: [[], [1, 3, 3], [], [1, 3, 3], [], [], [], [], [], [], [], [], [], [], [1, 3, 3], []]
+    POOL_SKIP_STRIDE: [[], [1, 2, 2], [], [1, 2, 2], [], [], [], [], [], [], [], [], [], [], [1, 2, 2], []]
+TRAIN:
+    BATCH_SIZE:  16
+    LOSS: ce
+    ACCUMULATION_STEPS: 4
+    BASE_LR_SCALE_NUM_SHARDS: True
+    LR: 0.00025
+    LR_POLICY: cosine
+    EPOCHS: 300
+    MOMENTUM: 0.9
+    WEIGHT_DECAY: 0.05
+    WARMUP_EPOCHS: 70.0
+    OPTIMIZER: adamw
+    ZERO_WD_1D_PARAM: True
+NUM_SHARDS: 1
