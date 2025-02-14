@@ -13,7 +13,7 @@ Animal action recognition has a wide range of applications. With the rise of vis
 ## Data
 You can access and download the [MammalNet](https://github.com/Vision-CAIR/MammalNet), [Animal Kingdom](https://github.com/sutdcv/Animal-Kingdom), [LoTE-Animal](https://github.com/LoTE-Animal/LoTE-Animal.github.io)  dataset to obtain the data used in the paper.
 ## Requirements
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 ## Train
 ```
 python -m torch.distributed.launch --nproc_per_node=<YOUR_NPROC_PER_NODE> main.py -cfg <YOUR_CONFIG> --output <YOUR_OUTPUT_PATH> --accumulation-steps 4 --description <YOUR_ACTION_DESCRIPTION_FILE> --animal_description <YOUR_ANIMAL_DESCRIPTION_FILE>
