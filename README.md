@@ -7,12 +7,17 @@ Animal action recognition has a wide range of applications. With the rise of vis
 <img width="1161" alt="pipeline" src="https://github.com/user-attachments/assets/19712220-69d3-43b2-81bb-02721d0108ac" />
 
 **Some prediction results:**
+
 <img width="773" alt="image" src="https://github.com/user-attachments/assets/af443d3f-9110-4da1-b102-d12f9cc5eb65" />
 
 ## Data
 You can access and download the [MammalNet](https://github.com/Vision-CAIR/MammalNet), [Animal Kingdom](https://github.com/sutdcv/Animal-Kingdom), [LoTE-Animal](https://github.com/LoTE-Animal/LoTE-Animal.github.io)  dataset to obtain the data used in the paper 
 ## Requirements
 `pip install -r requirements.txt`
-## Requirements
+## Train
+python -m torch.distributed.launch --nproc_per_node=<YOUR_NPROC_PER_NODE> main.py -cfg <YOUR_CONFIG> --output <YOUR_OUTPUT_PATH> --accumulation-steps 4 --description <YOUR_ACTION_DESCRIPTION_FILE> --animal_description <YOUR_ANIMAL_DESCRIPTION_FILE>
+## Test
+python -m torch.distributed.launch --nproc_per_node=<YOUR_NPROC_PER_NODE> main.py -cfg <YOUR_CONFIG> --output <YOUR_OUTPUT_PATH> --description <YOUR_ACTION_DESCRIPTION_FILE> --animal_description <YOUR_ANIMAL_DESCRIPTION_FILE> --only_test --opts TEST.NUM_CLIP 4 TEST.NUM_CROP 3 --resume <YOUR_MODEL_FILE>
 ## Acknowledgement
 Thanks to the open source of the following projects:
+[X-CLIP](https://github.com/microsoft/VideoX/tree/master/X-CLIP),[BioCLIP](https://github.com/Imageomics/bioclip)
