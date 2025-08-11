@@ -23,7 +23,7 @@ python -m torch.distributed.launch --nproc_per_node=<YOUR_NPROC_PER_NODE> main.p
 python -m torch.distributed.launch --nproc_per_node=<YOUR_NPROC_PER_NODE> main.py -cfg <YOUR_CONFIG> --output <YOUR_OUTPUT_PATH> --description <YOUR_ACTION_DESCRIPTION_FILE> --animal_description <YOUR_ANIMAL_DESCRIPTION_FILE> --only_test --opts TEST.NUM_CLIP 4 TEST.NUM_CROP 3 --resume <YOUR_MODEL_FILE>
 ```
 ## Pretrained Model
-https://drive.google.com/drive/folders/1iNMta_pFjhHLNK3FRZLUigSt3ya7i8sU?usp=sharing
+[Google Drive](https://drive.google.com/drive/folders/1iNMta_pFjhHLNK3FRZLUigSt3ya7i8sU?usp=sharing)
 ## Acknowledgement
 Thanks to the open source of the following projects:
 [X-CLIP](https://github.com/microsoft/VideoX/tree/master/X-CLIP),[BioCLIP](https://github.com/Imageomics/bioclip).
