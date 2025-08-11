@@ -1,0 +1,897 @@
+Abalone	[68]	1
+Acyrthosiphon Pisum Aphid	[21, 40, 55, 68, 78, 96, 102]	7
+Aedes Aegypti Mosquito	[40, 52, 60, 68, 71, 78, 102, 119, 123]	9
+Aedes Aegypti Mosquito Larva	[78, 123]	2
+Aesculapian Snake	[8, 27, 47, 68, 75, 78, 102]	7
+African Bullfrog	[68]	1
+African Civet	[45, 102]	2
+African Clawed Toad	[40, 67, 68, 78, 123]	5
+African Finfoot	[123]	1
+African Golden Cat	[133]	1
+African Oryx	[68, 102, 133]	3
+African Painted Dog	[67, 102, 133]	3
+African Penguin	[102, 133]	2
+African Wild Boar	[27, 47, 68, 102]	4
+Agouti	[2, 40, 68, 78, 100, 133]	6
+Agraulis Vanilla Caterpillar	[40]	1
+Alauda Arvensis Bird	[2, 13, 15, 52, 57, 68, 90, 102, 133]	9
+Albatross	[15, 102, 133]	3
+Aldabrachelys Gigantea Tortoise	[2, 40]	2
+Alfalfa Leafcutting Bee	[8, 12, 40, 41, 44, 45, 52, 68, 69, 102]	10
+Alligator	[68, 123]	2
+Alpine Newt	[40, 68, 102, 123]	4
+Altantic Stingray	[25, 123]	2
+Amazon Milk Frog	[2, 68, 133]	3
+Anartia Jatrophae	[40]	1
+Anas Crecca Bird	[2, 40, 48, 68, 90, 102, 133]	7
+Anas Platyrhynchos Bird	[32, 40, 49, 52, 68, 90, 102, 104, 123, 135]	10
+Anisolabis Maritima	[25, 40, 45, 47, 68, 78, 102]	7
+Annulated Tree Boa	[68, 78, 102]	3
+Anole Lizard	[92]	1
+Anopheles Gambiae Mosquito	[40]	1
+Ant	[1, 6, 7, 8, 12, 13, 27, 40, 45, 46, 47, 51, 52, 58, 66, 68, 78, 96, 102, 120, 128]	21
+Anteater	[58, 133]	2
+Antelope	[40, 68, 133]	3
+Anthus Pratensis Bird	[2, 40, 45, 48, 68, 102, 133]	7
+Antipaluria Urichi Webspinner	[9, 78]	2
+Aphid	[5, 7, 8, 13, 21, 26, 47, 66, 68, 78, 102, 120, 127]	13
+Aphidius Ervi Parasitoid Wasp	[1, 68, 78]	3
+Aphis Fabae Alates	[52, 68, 78, 102]	4
+Aphis Fabae Aphid	[45, 68, 78, 102, 120]	5
+Apis Mellifera Honey Bee	[2, 40, 41, 44, 45, 52, 58, 68, 69, 78, 102, 133]	12
+Araneus Diadematus Spider	[1, 40, 68, 78, 102, 138]	6
+Archer Fish	[40, 67, 68, 102, 111, 123]	6
+Archispirostreptus Gigas Giant African Millipede	[17]	1
+Ardea Alba Egret	[1, 2, 8, 15, 38, 40, 48, 52, 68, 69, 90, 100, 102, 103, 104, 114, 133]	17
+Ardeotis Kori Bird	[133]	1
+Argentine Ant	[8, 13, 27, 40, 44, 45, 58, 68, 78, 97, 102]	11
+Arizona Bark Scorpion	[1, 2, 7, 42, 51, 78, 96, 102, 120]	9
+Ashe's Spitting Cobra	[2, 68, 78, 102]	4
+Asian Glossy Starling Bird	[40, 67, 102]	3
+Asian Lion	[133]	1
+Asian Small-Clawed Otter	[123]	1
+Asian Tapir	[133]	1
+Asiatic Golden Cat	[102, 133]	2
+Atheris Hispida Viper	[68, 78, 102]	3
+Atheris Nitschei Viper	[1, 2, 68, 78, 102]	5
+Atheris Squamigera	[1, 62, 68, 78, 102]	5
+Atlantic Blue Tang Fish	[40, 123]	2
+Australian Bowerbird	[2, 9, 13, 40, 52, 67, 69, 102]	8
+Avicularia Spider	[78]	1
+Azure Tit Bird	[2, 40, 52, 90, 99, 102, 128, 133]	8
+Babirusa	[2, 133]	2
+Backswimmer	[102]	1
+Badger	[8, 51]	2
+Bald Eagle	[52, 57, 68]	3
+Banana Slug	[2, 40, 78]	3
+Banded Rubber Frog	[2, 58, 68, 78, 133]	5
+Banded Woodpecker	[52, 80, 102]	3
+Bare-Faced Curassow	[68, 102, 133]	3
+Barking Deer	[2, 40, 58, 102]	4
+Barracuda Fish	[123]	1
+Barramundi Fish	[123]	1
+Barred Warbler Bird	[15, 102]	2
+Basilisk Lizard	[16, 40, 67, 68, 100, 102, 133]	7
+Bat	[68]	1
+Battus Philenor Hirsuta	[40, 48, 68]	3
+Battus Philenor Hirsuta Caterpillar	[40]	1
+Bay's Duiker	[45, 100, 133]	3
+Bearded Pig	[133]	1
+Beaver	[7, 67, 102, 123, 133]	5
+Bee	[1, 4, 6, 16, 27, 40, 45, 46, 47, 52, 69, 78, 88, 102, 120]	15
+Beetle	[7, 52, 68, 78, 114, 127]	6
+Bengal Tiger	[133]	1
+Big Headed Ant	[2, 16, 40, 45, 78, 102]	6
+Bighorn Sheep	[16, 67, 102]	3
+Binturong	[102]	1
+Bird	[1, 2, 8, 13, 15, 25, 26, 28, 32, 37, 38, 40, 45, 47, 48, 49, 51, 52, 57, 67, 68, 69, 75, 78, 80, 81, 86, 90, 93, 95, 100, 101, 102, 103, 104, 105, 108, 110, 114, 116, 118, 123, 124, 128, 130, 132, 133, 134, 135]	49
+Bison	[40, 47, 68, 102, 133]	5
+Black Bean Aphid	[7, 68, 78]	3
+Black Bearded Draco	[2, 35, 40, 57, 67, 68, 69, 78, 100, 102, 122]	11
+Black Click Beetle	[78]	1
+Black Duiker	[45]	1
+Black Durgon Fish	[123]	1
+Black Grouse	[2, 15, 52, 68, 69]	5
+Black Headed Python	[78]	1
+Black Mamba	[1, 2, 5, 8, 26, 39, 51, 62, 68, 78, 96, 97, 100, 102, 120]	15
+Black Necked Spitting Cobra	[2, 51, 62, 68, 78, 102, 112]	7
+Black Stork	[12, 13, 27, 38, 40, 45, 48, 52, 68, 69, 90, 102, 114, 117, 128, 133]	16
+Black Swan	[2, 49, 123, 133]	4
+Blackbird	[15, 102]	2
+Black-Winged Stilt	[2, 25, 27, 38, 40, 46, 52, 67, 68, 69, 84, 90, 102, 104, 108, 114, 133]	17
+Blue Dasher Dragonfly	[52]	1
+Blue Orchard Bee	[9, 25, 40, 41, 43, 44, 45, 52, 58, 68, 69, 78, 102]	13
+Blue Orchard Bee Larva	[40, 78]	2
+Blue Poison Dart Frog	[2, 40, 67, 68, 123, 133]	6
+Blue Whale	[123]	1
+Bluehead Wrasse Fish	[123]	1
+Blue-Ringed Octopus	[68, 78, 102, 113]	4
+Bluethroat	[2, 15, 40, 45, 52, 64, 67, 76, 90, 102, 133, 135]	12
+Boa	[68, 78]	2
+Boar	[40, 45, 102, 133]	4
+Bogong Moth	[48, 68, 78]	3
+Bombardier Beetle	[68, 78, 102]	3
+Bongo	[45]	1
+Bordered Mantis	[2, 7, 16, 40, 48, 58, 65, 68, 75, 78, 102]	11
+Boreal Owl	[52, 68, 102, 133]	4
+Bornean Orangutan	[10, 40, 73, 116]	4
+Botaurus Stellaris Bird	[2, 15, 40, 68, 102, 123, 133]	7
+Bothriechis	[68]	1
+Bothrops Asper	[68]	1
+Bottlenose Dolphin	[1, 5, 10, 13, 28, 47, 121, 123]	8
+Box Jellyfish	[37, 123]	2
+Boxer Crab	[76, 102, 136]	3
+Brittle Star	[68]	1
+Brooke's Duikers	[133]	1
+Brown Garden Snail	[78, 85, 102]	3
+Brown-Banded Cockroach	[78]	1
+Buffalo	[1, 2, 14, 26, 27, 47, 51, 68, 100, 102, 120, 133]	12
+Bull Shark	[123]	1
+Bullfinch	[2, 8, 15, 40, 48, 52, 102, 104, 128]	9
+Bullfrog	[1, 2, 47, 67, 68, 128, 133]	7
+Bullfrog Tadpole	[123]	1
+Bumblebee	[40, 45, 48, 52, 58, 69, 78]	7
+Bushmaster Snake	[68, 78]	2
+Butterfly	[40, 48, 52, 68, 69]	5
+Butterfly Fish	[123]	1
+Cabbage White Caterpillar	[40, 47, 68, 78, 96, 102, 120]	7
+Caddisfly	[2, 7, 8, 11, 16, 68, 76, 78]	8
+Caddisfly Larva	[78, 102]	2
+Calamari	[123]	1
+Calidris Apina Bird	[15, 40, 68, 90, 102, 104, 133]	7
+Calidris Minuta Bird	[2, 40, 48, 90, 104, 133]	6
+California Newt	[16, 46, 65, 68, 78, 123, 133]	7
+California Newt Young	[8, 107, 123]	3
+California Oak Moth	[48, 52, 68]	3
+California Oak Moth Larva	[22, 40, 43, 46, 68, 69, 78, 102]	8
+California Oak Moth Pupa	[68]	1
+California Rock Crab	[78]	1
+California Sea Lion	[78, 102, 109, 133]	4
+Camberwell Beauty Butterfly	[84]	1
+Camel	[2]	1
+Campbell's Monkey	[2, 102]	2
+Capuchin Monkey	[40, 67, 100, 102, 104, 133]	6
+Carcharhinus Galapagensis	[123]	1
+Carcharhinus Limbatus	[1, 40, 123]	3
+Carcharias Taurus	[40, 68, 123]	3
+Carcharodon Carcharias	[123]	1
+Cardinal Fish	[37, 68, 123]	3
+Caretta Caretta Turtle	[102, 123, 133]	3
+Caribou	[2, 100, 133]	3
+Carolina Duck	[38, 49, 68, 102, 103, 104, 123, 128]	8
+Carribean Rock Mantis Shrimp	[68]	1
+Caspian Tern	[32, 102, 123, 133]	4
+Cat	[58, 102, 133]	3
+Caterpillar	[1, 7, 21, 25, 26, 40, 45, 68, 78, 96, 102, 104]	12
+Catfish	[37, 68, 123]	3
+Cattle	[133]	1
+Chaffinch Bird	[2, 15, 38, 52, 68, 69, 90, 102, 104, 118, 128, 135]	12
+Chameleon	[16, 40, 68, 78, 102, 133]	6
+Chamois Goat Antelope	[25, 27, 40, 51, 68, 102, 108, 133]	8
+Charadrius Dubius Bird	[33, 68]	2
+Cheetah	[1, 2, 3, 8, 14, 38, 68, 91, 96, 100, 102, 108, 133]	13
+Chelonia Mydas Turtle	[2, 68, 102, 123]	4
+Chicken	[45, 133]	2
+Chimpanzee	[2, 12, 16, 27, 40, 45, 47, 51, 58, 59, 67, 68, 70, 73, 76, 97, 100, 102, 108, 116, 118, 128, 133]	23
+Chrysoperla Rufilabris Green Lacewing Larva	[8, 78]	2
+Circus Aeruginosus Bird	[2, 9, 13, 15, 26, 40, 45, 47, 52, 68, 69, 87, 96, 97, 102, 104, 105, 114, 116, 128, 133]	21
+Citrine Wagtail	[2, 15, 90, 102, 103]	5
+Civet Cat	[40, 102, 133]	3
+Clitarchus Hookeri Common Stick Insect	[68]	1
+Clouded Monitor Lizard	[1, 2, 16, 25, 40, 45, 68, 104, 133]	9
+Clownfish	[44, 102, 123]	3
+Coati	[2, 45, 68]	3
+Cobra	[1, 26, 68, 78, 96, 97, 100, 102]	8
+Cockroach	[2, 6, 7, 51, 58, 66, 68, 78, 102, 120]	10
+Colugo	[2, 16, 57, 58, 59, 65, 68, 102]	8
+Common Basilisk Lizard	[10, 68, 101, 102]	4
+Common Bleak	[5, 7, 8, 66, 68, 120, 123]	7
+Common Buzzard	[2, 26, 27, 40, 47, 48, 52, 68, 69, 102, 114, 118, 133]	13
+Common Chiffchaff Bird	[15, 52, 102, 128]	4
+Common Crane	[1, 2, 14, 15, 30, 32, 33, 40, 45, 48, 49, 52, 58, 67, 68, 69, 76, 90, 95, 100, 102, 103, 104, 108, 114, 133]	26
+Common Crowned Pigeon	[2]	1
+Common Cuckoo Bird	[2, 8, 15, 40, 48, 49, 52, 68, 69, 90, 102, 104, 118, 133]	14
+Common Eastern Bumblebee	[40, 45]	2
+Common Eider	[15, 97, 102, 123]	4
+Common Goldeneye	[2, 5, 8, 13, 15, 30, 31, 32, 33, 34, 37, 48, 52, 57, 69, 90, 101, 102, 104, 123, 124, 135]	22
+Common Greenshank	[52, 68, 69, 90, 102]	5
+Common Quail Bird	[2, 15, 25, 40, 48, 68, 78, 80, 90, 100, 102, 103, 115, 117, 128, 133]	16
+Common Redshank	[40, 133]	2
+Common Rosefinch Bird	[2, 15, 52, 90, 99, 102]	6
+Common Snipe	[2, 15, 32, 40, 45, 48, 52, 68, 69, 90, 97, 100, 102, 103, 104, 114, 115, 133]	18
+Common Whitethroat Bird	[2, 15, 102]	3
+Common Wood Pigeon	[2, 15]	2
+Cone Snail	[25]	1
+Convergent Ladybug	[40, 52, 68, 75, 78, 102]	6
+Copper Shark	[40, 123]	2
+Coral Mimic Snake	[68, 78]	2
+Coral Snake	[68, 78]	2
+Corncrake	[15, 68, 102, 133]	4
+Coronate Medusa Jellyfish	[37, 123]	2
+Coronella Austriaca Snake	[68, 78, 102]	3
+Corroboree Frog	[16, 58, 68, 133]	4
+Cotesia Glomerata Wasp	[2, 43, 45, 47, 51, 71, 78, 91, 102, 120]	10
+Cougar	[133]	1
+Cow	[2, 40, 68, 78, 133]	5
+Coyote	[40, 67, 100, 102, 133]	5
+Crab	[1, 40, 41, 47, 51, 68, 76, 78, 107, 128]	10
+Crane	[40, 49, 52, 57, 68, 90, 102, 104, 133]	9
+Crane Fly	[52, 66]	2
+Crested Grebe Bird	[28, 68, 103, 123]	4
+Cricket	[1, 7, 40, 42, 51, 68, 78, 120, 123]	9
+Crocodile	[1, 8, 40, 51, 68, 78, 96, 102, 123, 133]	10
+Crocodylus Acutus Crocodile	[1, 68]	2
+Crocodylus Palustris Crocodile	[68, 133]	2
+Crotalus Willardi Ridge Nosed Rattlesnake	[68, 78, 94, 102, 139]	5
+Crow	[52]	1
+Crowned Eagle	[102]	1
+Cryptic Kelp Crab	[78, 93]	2
+Cryptic Mantis	[1, 2, 40, 58, 67, 68, 75, 78, 102, 122]	10
+Culex Pipiens Mosquito	[40]	1
+Cuttlefish	[37, 68, 123]	3
+Cyclosa Conica	[68]	1
+Daddy Longlegs Spider	[16, 58, 68, 78]	4
+Dampwood Termite	[22, 40, 41, 44, 45, 46, 78, 102, 120]	9
+Damsel Fish	[123]	1
+Damselfly	[1, 78]	2
+Damselfly Nymph	[68, 78]	2
+Danaus Plexippus Monarch Butterfly	[40, 48, 68]	3
+Danaus Plexippus Monarch Butterfly Caterpillar	[40, 43, 78, 129]	4
+Danube Bleak Fish	[123]	1
+Danube Salmon	[37, 40, 68, 123]	4
+Darner Damselfly	[1, 40, 68, 78]	4
+Darner Damselfly Larva	[1, 40]	2
+Darwin's Frog	[40, 68]	2
+Decorator Crab	[58, 68, 76, 78, 102]	5
+Deer	[2, 40, 67, 68, 102, 133]	6
+Dendroaspis Polylepis Black Mamba	[2, 68, 78, 102]	4
+Desert Fox	[45, 68, 73, 100, 133]	5
+Desert Rain Frog	[2, 25, 58, 68, 78, 133]	6
+Dholes	[133]	1
+Diana Monkey	[102]	1
+Dice Snake	[1, 2, 5, 8, 21, 40, 42, 45, 52, 62, 68, 78, 102, 123, 133, 139]	16
+Dingo Dog	[133]	1
+Dispholidus Typus Snake	[2, 68, 78, 97, 102, 139]	6
+Diving Bell Water Spider	[28, 40, 68, 78, 102, 123, 128]	7
+Dog	[1, 2, 3, 8, 14, 40, 68, 100, 102, 118, 133, 139]	12
+Dog Faced Water Snake	[68, 78]	2
+Dolphin	[40, 69, 121, 123]	4
+Draco Lizard	[57]	1
+Dragonfly	[40, 52, 68, 69, 71, 102]	6
+Drosophila Melanogaster Fruit Fly	[21, 40, 58, 68, 69, 78]	6
+Duck	[2, 7, 10, 15, 32, 40, 48, 49, 52, 68, 90, 102, 103, 104, 123, 133]	16
+Dumbo Octopus	[37, 123]	2
+Dumeril's Boa	[2, 68, 78, 102]	4
+Eagle	[1, 2, 15, 40, 46, 47, 48, 52, 57, 67, 68, 69, 76, 97, 102, 104, 105, 114, 133]	19
+Earthworm	[7, 78]	2
+Eastern Montpellier Snake	[68, 78]	2
+Echina	[25, 45, 68, 133]	4
+Eel	[1, 68]	2
+Eelgrass Isopod	[78]	1
+Eelgrass Sea Hare	[68, 78, 102]	3
+Egret	[40, 45, 52, 68, 90, 102, 133]	7
+Elegant Bronzeback Snake	[2, 68, 75, 78, 102]	5
+Elephant	[1, 2, 10, 14, 22, 29, 38, 40, 45, 49, 50, 51, 68, 76, 100, 102, 133]	17
+Emerita Analoga	[25, 68, 78, 102, 107]	5
+Ensatina	[2, 68, 133]	3
+Estuarine Crocodile	[68]	1
+Eurasian Skylark Bird	[52]	1
+Eurasian Wren Bird	[2, 10, 15, 52, 68, 90, 102, 104, 118, 128, 132]	11
+Eurasian Wryneck Bird	[15, 102]	2
+European Robin Bird	[2, 15, 68, 102, 103]	5
+European Serin Bird	[15, 40, 68, 102]	4
+European Turtle Dove	[15, 19, 68, 102]	4
+Eyelash Pit Viper	[2, 68, 78, 102]	4
+Fea's Muntjac	[40, 133]	2
+Feather Star	[123]	1
+Feathery Tailed Flatted Bug	[68, 78]	2
+Fer-De-Lance Snake	[68, 78]	2
+Fiddler Crab	[40, 44, 47, 78]	4
+Firebrat Insect	[40, 58, 68, 78, 102]	5
+Firecrest Bird	[15]	1
+Firefly	[7, 40, 52, 56, 68, 69, 75, 78, 84, 85, 102, 120]	12
+Fish	[2, 5, 7, 8, 13, 21, 37, 40, 41, 42, 51, 62, 66, 67, 68, 102, 114, 120, 121, 123, 133]	21
+Fishing Cat	[40]	1
+Flame Skimmer Dragonfly	[52, 68, 102]	3
+Flamingo	[26, 27, 38, 40, 45, 47, 52, 90, 96, 100, 102, 133, 134]	13
+Flamingo Young	[45, 46, 68, 78, 100, 102, 104, 133]	8
+Fly	[7, 21, 40, 52, 58, 68, 69, 78, 102, 120, 127]	11
+Flying Ant	[78]	1
+Flying Snake	[46]	1
+Foam Nest Frog	[65, 68, 78, 133]	4
+Forest Buffalo	[45]	1
+Forest Cobra	[1, 102]	2
+Forficula Auricularia	[78, 102]	2
+Formica Accreta	[2, 13, 45, 47, 68, 78, 102, 105]	8
+Fox	[2, 8, 25, 40, 45, 67, 68, 102, 104, 108, 133]	11
+Frilled Neck Lizard	[2, 3, 16, 40, 67, 69, 78, 100, 102, 118, 133]	11
+Frog	[1, 2, 5, 7, 10, 13, 16, 21, 28, 29, 32, 40, 46, 47, 52, 58, 59, 64, 65, 67, 68, 69, 75, 78, 81, 92, 102, 120, 123, 128, 133]	31
+Frog Tadpole	[7, 68, 78, 102, 123]	5
+Fruit Bat	[52, 58, 59, 65, 103]	5
+Fruit Fly	[1, 36, 40, 46, 47, 58, 68, 78, 84, 86, 96, 102, 114, 120]	14
+Gaboon Viper	[1, 40, 68, 78, 102, 139]	6
+Galapagos Tortoise	[40, 133]	2
+Galeocerdo Cuvier	[1, 2, 123]	3
+Gallinago Gallinago Bird	[2, 15, 32, 33, 40, 45, 48, 49, 52, 68, 90, 100, 102, 103, 108, 116, 133]	17
+Garganey	[2, 15, 30, 38, 49, 68, 90, 102, 104, 123]	10
+Gaur	[45, 133]	2
+Gavialis Gangeticus Crocodile	[2, 13, 47, 68, 100, 123, 133]	7
+Gazelle	[2, 51, 68]	3
+Gecarcinus Lateralis Crab	[25, 47, 77, 78]	4
+Gecko	[2, 16, 40, 45, 68, 73, 78, 102, 133]	9
+Genet	[45]	1
+Giant Forest Hog	[133]	1
+Giant Galapagos Tortoise	[40, 68, 102, 133]	4
+Giant Ground Gecko	[68]	1
+Giant Ground Pangolin	[45]	1
+Giant Hornet	[1, 14, 21, 40, 41, 45, 46, 47, 51, 52, 58, 65, 69, 78, 102, 120]	16
+Giant Salamander	[133]	1
+Giant Tortoise	[40]	1
+Giant Trevally	[1, 40, 46, 121, 123]	5
+Gibbon	[2, 67, 102, 125]	4
+Gila Monster	[102, 133]	2
+Giraffe	[1, 2, 27, 29, 38, 40, 42, 46, 47, 51, 68, 87, 96, 100, 102, 116, 133]	17
+Glass Frog	[1, 2, 16, 29, 40, 59, 67, 68, 71, 75, 78, 96, 133]	13
+Glossina Morsitans Morsitans	[40, 47, 52, 58, 68, 71, 75, 84, 102]	9
+Glossina Morsitans Morsitans Larva	[25, 78, 102]	3
+Goat	[1, 38, 46, 51, 68, 70, 88, 96, 98, 100, 102, 104, 116, 133]	14
+Goby Fish	[41, 68, 102]	3
+Goldcrest Bird	[15, 102]	2
+Golden Eagle	[2, 40, 48, 52, 67, 68, 69, 78, 90, 102, 133]	11
+Golden Orb Spider	[40, 51, 68, 75, 78, 85, 102]	7
+Golden Oriole	[2, 15, 102]	3
+Golden Poison Frog	[2, 10, 16, 40, 67, 68, 102, 133]	8
+Goldfinch	[15, 40, 48, 52, 67, 69, 90, 102, 103, 128, 133]	11
+Goose	[2, 15, 28, 47, 48, 52, 57, 68, 69, 90, 101, 102, 104, 123]	14
+Gorilla	[2, 59, 102, 133]	4
+Graphocephala Atropunctata Sharpshooter	[2, 68, 78, 84, 102]	5
+Grass Snake	[8, 40, 78]	3
+Grass Spider	[68]	1
+Grass Warbler Bird	[15, 102]	2
+Grasshopper	[2, 4, 5, 7, 40, 58, 67, 68, 78, 102, 128, 133]	12
+Grasshopper Warbler	[2, 15, 52, 67, 90, 102, 103, 128]	8
+Gray Angelfish	[123]	1
+Gray Whale	[121, 123]	2
+Grayling Fish	[123]	1
+Great Argus	[19, 45]	2
+Great Curassow	[48, 67, 100, 102, 133]	5
+Great Diving Beetle	[40]	1
+Great Egret	[1, 2, 8, 13, 15, 33, 38, 40, 47, 48, 49, 52, 57, 65, 68, 69, 76, 90, 102, 103, 104, 105, 108, 114, 116, 133]	26
+Great Grey Shrike	[2, 8, 10, 13, 15, 21, 40, 48, 52, 67, 68, 69, 80, 102, 105]	15
+Great Grey Shrike Young	[15, 40, 48, 52, 67, 68, 102, 110]	8
+Great Ramshorn Snail	[78, 102]	2
+Great Reed Warbler Bird	[15, 52, 90, 102, 104]	5
+Great Snipe	[2, 15, 47, 67, 68, 100, 102, 108, 114, 133]	10
+Greater Flamingo	[102, 133]	2
+Greater Mouse Deer	[2, 40, 45, 58, 68, 73, 102, 104, 116]	9
+Greater Racket Tail Drongo	[2, 40, 48, 52, 68, 69, 102, 105, 133]	9
+Grebe Bird	[2, 15, 20, 28, 30, 32, 38, 52, 68, 90, 101, 102, 104, 123]	14
+Green Bottle Fly	[22, 40, 52, 58, 68, 69, 78, 102]	8
+Green Crested Lizard	[16]	1
+Green Iguana	[2]	1
+Green Mamba	[78]	1
+Green Pea Aphid	[7, 68, 78, 102]	4
+Green Woodpecker	[2, 8, 15, 41, 44, 52, 67, 78, 90, 102, 104, 105, 133]	13
+Greta Oto Glasswing Butterfly	[43, 48, 52, 68, 102, 103]	6
+Greta Oto Glasswing Butterfly Caterpillar	[40, 68, 102, 129]	4
+Grey Bird	[2, 68, 90, 102]	4
+Grey Heron	[1, 2, 5, 8, 13, 38, 40, 48, 52, 67, 68, 69, 90, 100, 102, 103, 104, 123, 128, 133, 139]	21
+Grey Langur	[2, 12, 40, 45, 65, 67, 68, 76, 82, 102, 106, 108, 116, 133]	14
+Greylag Goose	[2, 15, 48, 49, 68, 90, 102, 104, 114, 123, 133, 135]	12
+Grizzly Bear	[2, 8, 40, 47, 68, 91, 102, 133]	8
+Gryllus Lineaticeps	[47, 48, 68, 75, 78, 84, 102, 103]	8
+Gull	[68]	1
+Guttural Toad	[68]	1
+Gyalopion Canum Snake	[68, 78]	2
+Habronattus Clypeatus	[2, 19, 47, 68, 75, 78, 97, 102]	8
+Hairworm	[24, 78]	2
+Hairworm Egg	[68, 78]	2
+Hairworm Larva	[68, 102]	2
+Hairy Caterpillar	[1, 40, 68, 78, 97]	5
+Halyomorpha Halys	[2, 40, 68, 78, 102, 114]	6
+Hamadryas Feronia Variable Cracker Butterfly	[68]	1
+Hammerhead Shark	[123]	1
+Hartebeest	[68]	1
+Hartlaub's Duck	[48, 90, 102]	3
+Harvester Ant	[46, 78, 96, 120]	4
+Hawfinch Bird	[15, 49, 90]	3
+Hawk	[1, 2, 52, 57, 68, 102]	6
+Hawksbill Turtle	[123]	1
+Hazel Grouse Bird	[2, 15, 40, 67, 68, 102, 103, 114, 133]	9
+Hedgehog	[45]	1
+Helmeted Guineafowl	[15, 133]	2
+Hermit Crab	[78, 102]	2
+Heron	[2, 68, 133]	3
+Hippodamia Convergens Ladybug	[40, 78]	2
+Hippopotamus	[8, 14, 47, 51, 96, 100, 107, 133, 139]	9
+Hognosed Pit Viper	[78, 102]	2
+Homalodisca Vitripennis Sharpshooter	[68, 78, 84, 85, 114, 128, 132]	7
+Honey Bee	[40, 41, 45, 52, 78]	5
+Hoopoe	[2, 8, 15, 40, 52, 67, 68, 69, 102, 105, 133]	11
+Hornbill	[2, 8, 40, 52, 67, 68, 69, 83, 96, 102, 104]	11
+Horned Adder	[2, 68, 78, 102]	4
+Horse	[1, 2, 8, 22, 25, 27, 29, 38, 40, 45, 46, 47, 51, 55, 61, 65, 67, 68, 70, 78, 82, 84, 87, 96, 97, 100, 102, 104, 105, 108, 116, 118, 128, 130, 132, 133, 135, 139]	38
+Horse Young	[2, 40, 58, 68, 82, 102, 103, 126, 133]	9
+Horseshoe Crab	[68, 75, 78]	3
+House Centipede	[78]	1
+House Cricket	[10, 40, 67, 68, 78, 102]	6
+Housefly	[2, 52, 58, 68, 69]	5
+Hoverfly	[2, 40, 52, 68, 69, 78]	6
+Hoverfly Young	[1, 40, 68, 78, 102]	5
+Hummingbird	[40, 52, 102]	3
+Hydroid	[78, 102]	2
+Hyena	[1, 2, 14, 26, 40, 51, 67, 68, 91, 96, 97, 100, 102, 108, 133, 139]	16
+Ibex	[2, 16, 38, 40, 45, 47, 51, 58, 67, 68, 78, 102, 104, 133]	14
+Ibis Hagedash	[45]	1
+Icterine Warbler Bird	[15, 67, 102]	3
+Iguana	[2, 10, 16, 28, 40, 42, 44, 46, 51, 67, 68, 73, 78, 100, 101, 102, 109, 120, 123, 133]	20
+Indian Chameleon	[68, 133]	2
+Indian Walking Stick	[78]	1
+Insect	[1, 7, 13, 40, 41, 52, 67, 68, 78, 102, 120, 127]	12
+Ixos Mcclellandii	[102]	1
+Jack Snipe Bird	[38, 68, 104, 115, 123, 133]	6
+Jackal	[2, 3, 40, 45, 68]	5
+Jaculus Jaculus	[25, 67, 68, 102]	4
+Jaguarundi Cat	[100, 102, 133]	3
+Jameson's Mamba	[2, 68]	2
+Javan Spitting Cobra	[1, 68, 102]	3
+Jellyfish	[37, 68, 123]	3
+Jentink's Duiker	[45, 133]	2
+Jerusalam Cricket	[2, 40, 44, 47, 68, 75, 78, 84, 102, 103, 120]	11
+Jeweled Cockroach Wasp	[1, 2, 8, 9, 13, 25, 41, 44, 58, 68, 71, 78, 102, 119]	14
+Johnston's Chameleon	[16]	1
+Jumping Spider	[19, 40, 58, 68, 102]	5
+Kangaroo	[2, 26, 27, 40, 45, 46, 47, 58, 63, 67, 68, 78, 102, 104, 108, 117, 133]	17
+Kangaroo Rat	[7, 25, 44, 68]	4
+Kangaroo Young	[16, 40, 78]	3
+Keeltail Needlefish	[123]	1
+King Cobra	[8, 40, 68, 78, 98, 102, 123]	7
+King Colobus	[2, 16, 100, 102, 108]	5
+Kingfisher	[2, 40, 48, 52, 68, 69, 139]	7
+Ladybug	[7, 40, 58, 68, 75, 78]	6
+Lampropeltis Getula Snake	[68, 78]	2
+Lampropeltis Pyromelana Snake	[68, 78]	2
+Lampropeltis Splendida Snake	[68, 78, 102]	3
+Lampropeltis Zonata Snake	[45, 68, 78]	3
+Lanius Excubitor	[2, 13, 40, 68, 102]	5
+Larus Canus Bird	[2, 40, 52, 68, 102, 123, 133]	7
+Larus Ridibundus Bird	[32, 40, 102, 123]	4
+Larva	[7, 40, 78]	3
+Laticauda Saintgironsi Sea Krait	[2, 68, 78]	3
+Latrodectus Hersperus Western Widow Spider	[2, 9, 41, 47, 68, 78, 102]	7
+Leaf Insect	[16, 68]	2
+Leafcutter Ant	[8, 12, 13, 40, 58, 68, 78]	7
+Leaf-Tailed Gecko	[1, 2, 8, 16, 40, 59, 67, 68, 69, 96, 102, 133]	12
+Leatherback Sea Turtle	[68, 121, 123, 133]	4
+Leech	[40, 68, 75, 78, 123]	5
+Leopard	[1, 2, 3, 14, 27, 38, 40, 45, 51, 67, 68, 70, 84, 91, 95, 97, 100, 102, 104, 106, 108, 109, 116, 126, 133, 139]	26
+Leopard Gecko	[68, 100, 102, 133]	4
+Leopard Seal	[1, 10, 28, 68, 78, 102, 107, 121, 123]	9
+Lesser Mousedeer	[2, 40, 45, 67, 133]	5
+Lesser Spot Nosed Monkey	[16, 67]	2
+Lesser Sunda Pit Viper	[1, 8, 40, 68, 78]	5
+Lichanura Trivirgata Snake	[78]	1
+Lightfoot Crab	[2, 16, 40, 51, 67, 68, 69, 78, 96, 102, 123]	11
+Lion	[1, 2, 3, 8, 14, 26, 27, 38, 40, 45, 46, 47, 51, 58, 65, 67, 68, 73, 76, 78, 87, 91, 95, 96, 97, 99, 100, 102, 104, 106, 108, 109, 116, 118, 120, 128, 130, 133, 139]	39
+Lion Young	[1, 2, 3, 8, 13, 16, 38, 40, 46, 58, 65, 67, 68, 70, 82, 87, 96, 100, 102, 106, 108, 116, 133, 139]	24
+Lionfish	[123]	1
+Little Crake Bird	[40, 68, 90, 102, 104, 133]	6
+Little Egret	[40]	1
+Lizard	[2, 5, 7, 10, 16, 19, 21, 47, 59, 67, 68, 100, 101, 102, 104, 133]	16
+Lobster	[37, 51, 68, 78, 97, 102, 123]	7
+Long Horned Beetle	[7, 78]	2
+Long Tail Scorpion	[1, 2, 4, 7, 40, 68]	6
+Long Tailed Macaque	[13, 16, 67, 68, 76, 82]	6
+Long-Toed Water Beetle	[102, 123]	2
+Luscinia Luscinia Nightingale Bird	[2, 15, 68, 90]	4
+Macaque	[68, 78]	2
+Madagascar Hissing Cockroach	[2, 40, 68, 78, 102]	5
+Madagascar Hissing Cockroach Mite	[68, 78, 102]	3
+Malabar Pit Viper	[68]	1
+Malayan Flying Fox	[40]	1
+Malayan Porcupine	[68, 133]	2
+Malayan Sun Bear	[10, 116, 128, 133]	4
+Malayan Tapir	[40, 45, 102, 133]	4
+Malayan Water Monitor Lizard	[2, 123]	2
+Mallard Duck	[2, 5, 13, 31, 32, 38, 40, 45, 48, 49, 52, 57, 67, 68, 69, 90, 100, 101, 102, 103, 104, 114, 123, 133]	24
+Mandarin Duck	[123]	1
+Mandrill	[133]	1
+Manta Ray	[123]	1
+Mantis	[7, 16, 68]	3
+Mantis Shrimp	[1, 40, 41, 44, 68, 78, 97, 107]	8
+Many Horned Adder	[68, 78, 102, 139]	4
+Marbled Cat	[133]	1
+Marbled Rubber Frog	[68, 133]	2
+Marine Iguana	[2, 16, 28, 40, 42, 68, 78, 100, 102, 123, 133]	11
+Markhor Goat	[2, 46, 51, 123, 133]	5
+Maroon Macaque	[1, 2, 4, 10, 12, 16, 25, 26, 27, 38, 40, 46, 47, 58, 65, 67, 68, 72, 76, 78, 82, 96, 97, 100, 102, 103, 109, 133, 139]	29
+Marsh Frog	[7, 40, 68, 120]	4
+Marsh Harrier Bird	[40, 48, 67, 102]	4
+Marshbuck	[68, 102, 108, 133]	4
+Maxwell's Duiker	[45, 133]	2
+Mayfly	[48, 52, 68, 69]	4
+Mayfly Larva	[78]	1
+Meerkat	[1, 2, 14, 16, 25, 26, 40, 47, 67, 68, 78, 91, 97, 100, 102, 116, 117, 118, 133]	19
+Megalorchestia Californiana Beach Hopper	[2, 25, 40, 41, 45, 46, 47, 64, 66, 67, 68, 69, 78, 102]	14
+Melanosuchus Niger Crocodile	[40, 68, 133]	3
+Metlapilcoatlus Mexicanus Jumping Pit Viper	[1, 2, 68, 78, 97]	5
+Metrius Bombardier Beetle	[78]	1
+Micruroides Euryxanthus Snake	[68, 78]	2
+Millipede	[78]	1
+Mimic Blenny Fish	[27, 41, 102, 123]	4
+Mimic Poison Frog	[2, 40, 68, 75, 102]	5
+Minke Whale	[28, 121, 123]	3
+Mistle Thrush	[2, 15, 40, 48, 52, 68, 69, 78, 102, 128]	10
+Mitred Leaf Monkey	[102, 133]	2
+Mojave Rattlesnake	[21, 68, 78, 94, 102]	5
+Mojave Rattlesnake Young	[78, 94]	2
+Mongoose	[1, 2, 8, 13, 14, 26, 39, 51, 62, 67, 68, 97, 100, 102, 117, 133]	16
+Monitor Lizard	[2, 16, 68, 108, 123, 133, 139]	7
+Monkey	[2, 40, 47, 68, 70, 82, 102, 133, 139]	9
+Monkey Young	[2, 68]	2
+Monster Frog	[67, 68, 133]	3
+Montagu's Harrier	[2, 13, 15, 45, 52, 68, 69, 90, 102, 105, 108, 110, 114, 116, 128, 133]	16
+Montagu's Harrier Young	[2, 13, 15, 40, 52, 68, 78, 90, 95, 102, 108, 110, 114, 116, 133]	15
+Montpellier Snake	[2, 68, 78, 102]	4
+Moose	[103, 116, 133]	3
+Moray Eel	[10, 37, 40, 68, 102, 123, 139]	7
+Morning Gecko	[2, 58, 60, 67, 68, 69, 73, 78, 100, 102, 133]	11
+Morpho Butterfly	[52, 68]	2
+Mosquito	[40, 52, 68, 69]	4
+Mosquito Larva	[7, 68, 78, 120, 123]	5
+Moss Crab	[58, 76, 78, 102]	4
+Motacilla Alba Bird	[8, 15, 40, 100, 102, 104, 133]	7
+Motacilla Flava	[2, 15, 102]	3
+Moth	[7, 48, 68, 69, 78, 120, 127]	7
+Mountain Gorilla	[2, 40, 68]	3
+Mountain Pygmy Possum	[2, 40, 45, 67, 68, 100, 102, 103, 123, 128, 133]	11
+Mountain Yellow-Legged Frog	[1, 2, 40, 67, 68, 78, 123]	7
+Mouse	[1, 2, 21, 25, 40, 42, 48, 51, 58, 67, 68, 78, 96, 100, 104, 120, 128, 133]	18
+Mouse Deer	[45]	1
+Mozambique Spitting Cobra	[2, 68, 78, 102, 112]	5
+Mudskipper	[27, 47, 67, 68, 111, 133]	6
+Naja Nivea Snake	[1, 2, 68, 78, 102, 117]	6
+Namaqua Dwarf Adder	[68, 78, 102]	3
+Namaqua Dwarf Chameleon	[68, 133]	2
+Nasutitermes Nigriceps Termite	[78, 102]	2
+Natrix Natrix Snake	[2, 68, 78, 88]	4
+Natrix Tessellata Snake	[1, 8, 40, 62, 68, 78, 102, 120, 137]	9
+Nautilus	[45, 123]	2
+Nerillid Worm	[78]	1
+Newt	[133]	1
+Newt Young	[2, 68]	2
+Nightingale Bird	[2, 15, 40, 52, 67, 68, 102, 104, 128, 133]	10
+Nilgai	[68, 133]	2
+Nine Banded Armadillo	[133]	1
+Northern Pacific Rattlesnake	[68, 78, 94, 102]	4
+Nose-Horned Viper	[68, 78]	2
+Nudibranch	[68, 78, 102]	3
+Numenius Arquata Bird	[2, 40, 48, 52, 68, 90, 102, 103, 104, 133, 135]	11
+Nursery Web Spider	[12, 40, 47, 58, 68, 78, 102, 138]	8
+Nuthatch Bird	[13, 40, 44, 52, 67, 80, 102]	7
+Nymphidium Sp. Caterpillar	[40, 45, 68, 78, 102]	5
+Ocelot	[82, 102, 104, 133]	4
+Octopus	[1, 68, 78, 102, 107, 123]	6
+Ocyropsis Ctenophore	[68]	1
+Olive Colobus	[40]	1
+Opossum	[133]	1
+Orange Clownfish	[102, 123]	2
+Orangutan	[16, 27, 89, 102, 125]	5
+Orb Spider	[40, 68, 75, 78, 102]	5
+Orb-Weaver Spider	[78]	1
+Orca	[28, 40, 102, 121, 123]	5
+Oriental Pied Hornbill	[2, 13, 52, 68, 102, 104, 105]	7
+Oriental Whip Snake	[2, 40, 68, 78, 102, 139]	6
+Osteolaemus Osborni Crocodile	[68]	1
+Ostrich	[2, 7, 15, 38, 40, 48, 51, 60, 68, 100, 102, 108, 120, 133]	14
+Otter	[2, 8, 10, 13, 16, 25, 28, 32, 40, 45, 47, 67, 68, 70, 87, 95, 97, 98, 100, 101, 102, 103, 104, 106, 117, 121, 123, 133, 139]	29
+Owen's Chameleon	[68]	1
+Owl	[2, 27, 40, 52, 68, 83, 85, 97, 102, 103, 105, 109, 128, 133, 139]	15
+Pacman Frog	[10, 40, 58, 67, 68]	5
+Panda	[40]	1
+Pangolin	[133]	1
+Paradise Tree Snake	[68, 78]	2
+Parrot	[2, 102, 133]	3
+Peacock	[2]	1
+Peacock Mantis Shrimp	[1, 40, 44, 51, 68, 78, 123]	7
+Pelican	[30, 37, 38, 40, 52, 68, 69, 102, 114, 123, 139]	11
+Penguin	[2, 10, 28, 48, 52, 58, 67, 68, 78, 100, 102, 104, 107, 121, 123, 133]	16
+Perch Fish	[7, 8, 21, 40, 42, 49, 53, 68, 78, 98, 120, 123, 133]	13
+Phalacrocorax Carbo Bird	[102, 104, 135]	3
+Philomachus Pugnax Ruff Bird	[2, 14, 15, 27, 32, 33, 40, 45, 48, 51, 52, 67, 68, 69, 83, 90, 100, 102, 103, 114, 133, 135]	22
+Phyllium Giganteum	[16, 68, 78, 102, 122]	5
+Pig-Tailed Macaque	[58, 102, 108, 139]	4
+Pika	[2, 8, 13, 40, 67, 68, 69, 100, 102]	9
+Pike Perch Fish	[1, 45, 68, 123]	4
+Pill Bug	[45, 78, 102, 131]	4
+Pink Skunk Clownfish	[102]	1
+Pipevine Swallowtail Caterpillar	[40]	1
+Pistol Shrimp	[25, 68, 78, 102]	4
+Pit Viper	[7]	1
+Pituophis Catenifer Snake	[78]	1
+Planarian Schmidtea Mediterranea Flatworm	[68, 78]	2
+Plantain Squirrel	[16, 40, 45, 67, 68, 100]	6
+Platypus	[28, 45, 58, 123, 133]	5
+Polar Bear	[1, 8, 14, 26, 45, 51, 87, 95, 100, 102, 104, 109, 133]	13
+Polyergus Mexicanus	[13, 40, 44, 45, 47, 58, 68, 76, 78, 102]	10
+Porcupine	[1, 2, 26, 51, 68, 96, 100, 102, 133]	9
+Portia Jumping Spider	[0, 1, 2, 16, 19, 40, 67, 69, 78, 102]	10
+Portugese Man O'War	[37]	1
+Postman Butterfly	[40, 48, 52, 68, 69, 71]	6
+Postman Butterfly Caterpillar	[40]	1
+Prawn	[68, 78, 123]	3
+Praying Mantis	[1, 2, 7, 40, 68, 78, 102]	7
+Predaceous Diving Beetle	[68, 78, 102, 123]	4
+Prevost's Squirrel	[40]	1
+Proboscis Monkey	[102]	1
+Promecognathus Crassus Beetle	[13, 40, 47, 65, 68, 78]	6
+Puff Adder	[2, 68, 78, 102]	4
+Pufferfish	[5, 8, 13, 42, 54, 123]	6
+Puffin	[102]	1
+Pygmy Hippopotamus	[2, 68, 133]	3
+Pygmy Owl	[2, 15, 68, 90, 102, 103]	6
+Pygmy Seahorse	[55, 68, 102, 123]	4
+Python	[68]	1
+Quail	[2, 15, 68, 90, 102, 104]	6
+Rabbit	[25, 40, 67, 68, 102]	5
+Racoon	[133]	1
+Raffles Banded Langur	[2, 8, 16, 25, 27, 40, 47, 58, 59, 65, 67, 68, 69, 70, 72, 76, 78, 96, 100, 102, 108, 109, 116, 125, 133, 139]	26
+Rain Frog	[2, 25, 40, 46, 58, 65, 68, 75, 78, 133]	10
+Rat	[1, 7, 68, 133]	4
+Rat Snake	[2, 68, 78, 102]	4
+Rattlesnake	[68, 102]	2
+Raven	[2, 13, 15, 25, 40, 48, 49, 52, 67, 68, 69, 70, 74, 78, 90, 99, 102, 103, 104, 114, 116, 133]	22
+Red Ant	[78]	1
+Red Bellied Black Snake	[40, 78, 102, 133]	4
+Red Crossbill	[2, 27, 38, 52, 67, 68, 102, 104]	8
+Red River Hog	[68, 133]	2
+Red Ruffed Lemur	[2, 10, 40]	3
+Red Spitting Cobra	[2, 38, 45, 62, 68, 78, 102, 112, 122]	9
+Redback Spider	[68, 78]	2
+Red-Backed Shrike Bird	[2, 8, 13, 15, 40, 48, 49, 52, 64, 67, 68, 69, 78, 90, 102, 105, 128]	17
+Red-Backed Shrike Bird Young	[2, 8, 13, 15, 40, 48, 49, 52, 64, 67, 68, 69, 78, 90, 102, 103, 105, 110, 116, 128]	20
+Red-Blacked Squirrel Monkey	[16, 67, 102, 116]	4
+Red-Eyed Tree Frog	[2, 16, 68, 78, 102, 133]	6
+Red-Ruffed Lemur	[2, 40, 69, 102, 133]	5
+Red-Throated Pipit	[40, 45, 68, 100, 102, 133]	6
+Reed Bunting Bird	[15, 49, 68, 102]	4
+Reef Octopus	[11, 44, 68, 78, 123]	5
+Remiz Pendulinus Bird	[2, 9, 13, 15, 41, 44, 52, 69, 102, 133]	10
+Reticulated Python	[2, 40, 68, 78, 97, 102, 123]	7
+Rhacodactylus Trachyrhynchus Gecko	[68]	1
+Rhamnophis Aethiopissa Snake	[2, 62, 68, 102]	4
+Rhesus Macaque	[16, 40, 46, 67, 68, 102, 108, 133]	8
+Rhincodon Typus	[40, 121, 123]	3
+Rhinoceros	[1, 2, 14, 40, 51, 78, 100, 133]	8
+Rhinoceros Viper	[78]	1
+Rhinoceros Young	[133]	1
+Ring-Tailed Lemur	[45, 65, 78, 84, 102]	5
+Rinkhals Snake	[68, 102]	2
+Robin Bird	[2, 15, 52, 68, 102, 103, 104]	7
+Roe Deer	[87]	1
+Rooster	[133]	1
+Round Face Bat Fish	[40, 123]	2
+Royal Grammas Fish	[123]	1
+Russell's Viper	[2, 68, 78, 102]	4
+Saddleback Galapagos Tortoise	[10, 102]	2
+Sagittarius Serpentarius Bird	[48, 90, 102, 133]	4
+Salamander	[2, 16, 46, 68, 78, 123, 133, 139]	8
+Salmon	[5, 7, 67, 123]	4
+Salticidae Jumping Spider	[1, 2, 8, 40, 58, 67, 68, 78, 102, 128]	10
+Saltwater Crocodile	[47, 100, 121]	3
+Sambar Deer	[2, 45, 68, 133]	4
+Sand Bubbler Crab	[7, 9, 40, 41, 44, 47, 58, 67, 78, 102]	10
+Sand Frog	[2, 40, 58, 67, 68, 78, 97, 120, 128]	9
+Sand Hopper	[7, 78]	2
+Sardine	[7, 51, 123]	3
+Savi's Warbler Bird	[15, 68, 102]	3
+Scallop	[123]	1
+Scorpion	[7, 25, 44, 78, 96, 102, 120]	7
+Scutigera Coleoptera House Centipede	[1, 40, 47, 58, 68, 78, 102]	7
+Sea Bird	[52]	1
+Sea Cockroach	[78]	1
+Sea Cucumber	[68, 123]	2
+Sea Goldies	[123]	1
+Sea Lion	[1, 40, 75, 78, 123]	5
+Sea Otter	[2, 37, 58, 68, 95, 98, 123]	7
+Sea Slug	[68, 78, 123]	3
+Sea Snail	[68, 78, 102]	3
+Sea Snake	[123]	1
+Sea Spider	[37]	1
+Sea Toad Fish	[49, 68, 102, 123]	4
+Sea Turtle	[25, 37, 68, 102, 123]	5
+Sea Urchin	[68]	1
+Seagull	[15, 52, 69, 102, 133]	5
+Seahorse	[40, 68, 78, 102, 123]	5
+Seal	[2, 8, 10, 65, 102, 123, 133]	7
+Sedge Warbler Bird	[2, 15, 102]	3
+Sergeant Major Fish	[123]	1
+Serow	[102, 133]	2
+Seven Banded Civet	[102, 133]	2
+Shark	[40, 123]	2
+Shearwater Bird	[1, 51, 123]	3
+Shield Bug	[68, 78, 84]	3
+Shoebill Bird	[1, 2, 8, 15, 38, 46, 48, 52, 57, 68, 69, 100, 102, 104, 116, 133]	16
+Shorebird	[40, 52, 102, 133]	4
+Short-Clawed Otter	[100]	1
+Shrimp	[68, 123]	2
+Side Blotched Lizard	[1, 2, 16, 35, 46, 51, 67, 68, 100, 102, 128, 133]	12
+Sidewinder Rattlesnake	[2, 68, 78, 94, 102]	5
+Singing Nightingale	[2, 15, 22, 52, 68, 90, 102, 104]	8
+Skate	[123]	1
+Skink	[2, 68, 100, 102, 133]	5
+Skylark	[13, 15, 40, 45, 102, 133]	6
+Slender Hognosed Pit Viper	[68, 78]	2
+Slender-Snouted Crocodile	[68]	1
+Sloth	[102]	1
+Sloth Bear	[2, 68]	2
+Slow Loris	[40]	1
+Smew	[2, 8, 28, 32, 38, 40, 48, 52, 68, 102, 104, 123]	12
+Smooth-Coated Otter	[40, 123]	2
+Snail	[7, 68, 78]	3
+Snake	[1, 2, 7, 8, 21, 38, 40, 42, 68, 75, 78, 96, 98, 102, 112, 120, 123, 137, 139]	19
+Snouted Cobra	[1, 2, 40, 68, 78, 102]	6
+Snow Leopard	[2, 8, 14, 16, 68, 82, 100, 102, 106, 108, 109, 133, 139]	13
+Socotra Cormorant	[2, 14, 15, 46, 48, 52, 68, 79, 102, 133]	10
+Song Thrush Bird	[15, 68]	2
+Sooty Mangabey	[102, 133]	2
+Southern Grasshopper Mouse	[25, 102, 133]	3
+Sparrowhawk	[52, 68, 102]	3
+Spectacled Cobra	[7, 68, 98, 102]	4
+Spider	[1, 2, 7, 9, 40, 45, 67, 68, 78, 102, 120, 138]	12
+Spider Crab	[40, 68, 78, 102]	4
+Spiny Flower Mantis	[40, 58, 68]	3
+Spotted Deer	[2, 68, 97, 133]	4
+Spotted Whistling Duck	[15, 38]	2
+Spotted Wood Owl	[2, 15, 52, 68, 102]	5
+Squid	[37, 102, 123, 128]	4
+Squirrel	[1, 2, 8, 13, 14, 16, 25, 40, 45, 51, 58, 67, 68, 87, 100, 102, 116, 117, 128, 133]	20
+Sri Lankan Leopard	[2, 3, 47, 67, 102, 133]	6
+Stag Beetle	[46, 47]	2
+Stagmomantis Limbata Bordered Mantis	[2, 68]	2
+Starfish	[68, 78]	2
+Starling Bird	[2, 15, 40, 41, 44, 48, 52, 69, 102, 128]	10
+Sterlet Fish	[40, 102, 123]	3
+Stick Insect	[40]	1
+Stingray	[68, 123]	2
+Stoat	[2, 36, 41, 67, 70, 98, 100, 102]	8
+Stock Dove	[2, 13, 40, 48, 52, 67, 68, 69, 90, 102, 114, 133]	12
+Stonefish	[25, 40, 68, 123]	4
+Stork	[2, 40, 45, 52, 67, 68, 90, 102, 117, 133]	10
+Stork-Billed Kingfisher	[67]	1
+Strange-Horned Chameleon	[16, 68, 78, 133]	4
+Strawberry Poison-Dart Frog	[68, 133]	2
+Stump-Tailed Macaque	[102, 133]	2
+Sumatran Hog Badger	[2, 45, 133]	3
+Sumatran Orangutan	[13, 16, 102]	3
+Sumatran Serow	[102, 133]	2
+Sumatran Tiger	[133]	1
+Sunbear	[133]	1
+Surgeonfish	[123]	1
+Swan	[45, 48, 68, 90, 102, 123]	6
+Syllid Worm	[102]	1
+Tachybaptus Ruficollis Bird	[40, 68, 90, 102, 123]	5
+Tadpole	[2, 5, 6, 7, 40, 68, 120, 123]	8
+Tamandua	[133]	1
+Tarantula	[1, 6, 44, 47, 68, 97, 102]	7
+Tarantula Hawk Wasp	[12, 45, 58, 68, 102]	5
+Tawny Owl	[2, 15, 68, 102, 103, 104, 128]	7
+Tayra	[13]	1
+Teddy Bear Crab	[78]	1
+Tench Fish	[123]	1
+Termite	[7, 78, 102]	3
+Tern	[1, 7, 21, 40, 52, 68, 102]	7
+Terrapin	[2]	1
+Tetragnatha Versicolor	[68]	1
+Texas Brown Tarantula	[78]	1
+Thamin Deer	[102]	1
+Thamnophis Cyrtopsis Snake	[2, 68, 78]	3
+Thelotornis Snake	[68, 78]	2
+Three-Toed Woodpecker	[68, 80, 90, 102]	4
+Thrush Nightingale Bird	[2, 15, 68, 102]	4
+Tiger	[1, 14, 47, 91, 100, 116, 133]	7
+Tiger Salamander	[1, 2, 40, 68, 123, 133, 139]	7
+Tiger Shark	[40, 123]	2
+Tinamou	[133]	1
+Tit Bird	[2, 15, 48, 52, 68, 90, 102, 104, 135]	9
+Toad	[2, 10, 40, 47, 65, 67, 68, 75, 78, 102, 123, 133]	12
+Toadfish	[68]	1
+Tomato Frog	[40, 67, 68, 97, 128]	5
+Tomistoma Schlegelii Gharial	[68, 123]	2
+Tortoise	[65, 68, 71, 123, 133]	5
+Trap-Door Spider	[1, 41]	2
+Tree Climbing Crab	[68, 78, 133]	3
+Tree Hopper	[68, 78]	2
+Tree Snake	[8, 68, 78]	3
+Tringa Erythropus Bird	[2, 15, 22, 33, 40, 68, 90, 102, 104, 133]	10
+Tringa Glareola Bird	[2, 32, 33, 40, 48, 49, 52, 67, 68, 69, 90, 100, 102, 103, 104, 114, 133, 135]	18
+Tringa Nebularia Bird	[2, 15, 40, 52, 68, 90, 100, 102, 103, 104, 128, 133, 135]	13
+Tringa Ochropus Bird	[2, 15, 22, 38, 40, 52, 90, 102, 104, 133]	10
+Trissolcus Japonicus Wasp	[40, 43, 45, 48, 58, 68, 71, 78]	8
+Tropical Reed Frog	[2, 16, 68, 102]	4
+Trout	[123]	1
+Trout Young	[40, 68, 102, 123]	4
+Turdus Merula Blackbird	[2, 8, 15, 22, 40, 48, 49, 52, 68, 69, 102, 104, 128, 133, 135]	15
+Turret Spider	[1, 13, 41, 68]	4
+Turtle	[2, 16, 25, 40, 46, 60, 68, 78, 102, 108, 123, 133, 139]	13
+Turtle Dove	[2, 38, 48, 52, 67, 68, 69, 90, 102, 114, 128, 133]	12
+Two-Toed Sloth	[40]	1
+Vampire Squid	[37, 68, 107, 123]	4
+Vanellus Vanellus Bird	[2, 32, 38, 40, 48, 49, 68, 90, 133]	9
+Vanessa Cardui Caterpillar	[40, 78]	2
+Vimba Fish	[5, 7, 21, 68, 78, 123]	6
+Viper	[78]	1
+Vipera Berus Snake	[2, 21, 68, 78, 102]	5
+Vulture	[102]	1
+Walking Stick	[40, 46, 68, 69, 78, 102, 122]	7
+Walrus	[1, 14, 51, 96, 100, 102, 120, 123, 133]	9
+Wandering Alabatross	[37, 69, 101, 102]	4
+Wasp	[1, 2, 5, 8, 13, 25, 27, 38, 40, 41, 42, 44, 45, 46, 47, 51, 52, 58, 68, 78, 97, 102]	22
+Water Dipper Bird	[15, 52, 102, 105, 133]	5
+Water Insect	[102]	1
+Water Lily Frog	[2, 16, 29, 47, 65, 67, 68, 84, 133]	9
+Water Rail Bird	[2, 15, 38, 40, 48, 52, 67, 68, 69, 78, 90, 100, 102, 103, 104, 128, 133]	17
+Water Scorpion	[1, 40, 68, 78, 102, 123]	6
+Water Strider	[40, 58, 67, 68, 78]	5
+Water Threader	[68, 78]	2
+Weaver Ant	[2, 8, 9, 12, 13, 27, 40, 45, 68, 78, 102]	11
+Wedge Tailed Eagle	[1, 2, 40, 52, 69, 102, 114, 133]	8
+Western Chimpanzee	[2, 12, 133]	3
+Western Chimpanzee Young	[2, 12, 67, 133]	4
+Western Diamondback	[68, 94, 102]	3
+Western Diamondback Young	[68]	1
+Western Dwarf Chameleon	[78]	1
+Western Pine Beetle	[25, 41, 44, 45, 52, 68, 78, 102, 114]	9
+Western Pine Beetle Larva	[40, 102]	2
+Western Pond Turtle	[1, 2, 8, 16, 28, 40, 42, 51, 68, 102, 123, 133]	12
+Western Widow Spider	[0, 40, 68, 78]	4
+Western-Crest Guineafowl	[45]	1
+Whale	[40, 121, 123, 128]	4
+Whinchat Bird	[2, 15, 49, 52, 68, 102, 103, 128]	8
+Whiskered Tern Bird	[8, 15, 40, 48, 49, 52, 69, 90, 102, 105, 128, 133]	12
+Whistling Duck	[67, 133]	2
+White And Gray Wagtail Bird	[40, 45, 49, 52, 67, 69, 90, 102, 103]	9
+White Cockatoo Bird	[2]	1
+White Nosed Coati	[40, 45, 67, 100, 133]	5
+White Rhinoceros	[109, 133]	2
+White Speckled Rattlesnake	[1, 8, 40, 68, 78, 102]	6
+White Throated Dipper Bird	[2, 15, 28, 32, 37, 40, 52, 67, 68, 69, 90, 102, 104, 105, 115, 123, 133]	17
+White Tiger	[2]	1
+White Wig Marine Iguana	[2, 68, 123, 133]	4
+White-Backed Woodpecker	[16, 40, 52, 69, 80, 99, 102, 103, 133]	9
+White-Bellied Fish Eagle	[2, 52]	2
+White-Breasted Guineafowl	[133]	1
+White-Breasted Waterhen	[102]	1
+White-Faced Saki Monkey	[40]	1
+Whooper Swan	[15, 20, 32, 38, 48, 52, 68, 69, 90, 102, 104, 116, 123, 133]	14
+Wild Boar	[40, 133]	2
+Wild Dog	[1, 3, 14, 51, 67, 91, 100, 102, 133]	9
+Wild Red-Tailed Boa	[2, 68, 78, 102]	4
+Wildebeest	[2, 14, 40, 51, 68, 100, 102, 120, 133]	9
+Winter Ant	[6, 23, 68, 78, 102]	5
+Wolf	[1, 2, 8, 13, 14, 40, 41, 45, 47, 51, 67, 68, 76, 96, 100, 102, 108, 126, 128, 132, 133]	21
+Wombat	[45, 133]	2
+Wood Cricket	[37, 46, 123]	3
+Wood Warbler	[2, 15, 48, 52, 102, 103, 128]	7
+Woodlark Bird	[2, 15, 52, 69, 102]	5
+Woodpecker	[2, 15, 40, 52, 68, 69, 78, 80, 102]	9
+Worm	[5, 7, 68, 78, 102]	5
+Wormlion	[52, 68]	2
+Wormlion Larva	[1, 25, 68, 78, 102, 103, 137]	7
+Wren	[15, 49, 67, 68, 102, 133]	6
+Xystocheir Dissecta Millipede	[7, 17, 68, 78, 96, 131]	6
+Yellow Cuttlefish	[37, 68, 78]	3
+Yellow Striped Tree Skink	[133]	1
+Yellow Watchman Goby Fish	[2, 25, 44, 51, 68, 78, 102]	7
+Yellow Wrasse Fish	[123]	1
+Yellow-Backed Duiker	[45, 133]	2
+Yellow-Eyed Ensatina	[2, 68, 102, 133]	4
+Yellowhammer	[2, 13, 15, 40, 48, 52, 67, 68, 69, 102, 105, 110, 114, 128, 133]	15
+Yellowhammer Young	[2, 13, 15, 40, 52, 67, 68, 102, 110, 114, 133]	11
+Yellowtail Fusilier Fish	[123]	1
+Yellow-Throated Martens	[45, 100]	2
+Zamenis Longissiumus Snake	[8, 18, 78, 84, 85, 102]	6
+Zebra	[1, 7, 29, 38, 40, 42, 47, 51, 68, 96, 100, 133]	12
+Zebra-Duiker	[45]	1
+Zooplankton	[123]	1
+Zygiella X-Notata	[78]	1

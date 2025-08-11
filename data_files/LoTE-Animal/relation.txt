@@ -1,0 +1,11 @@
+Macaca Thibetana	[0, 1, 3, 5, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20]	16
+Pseudois Nayaur	[0, 1, 2, 3, 5, 7, 8, 9, 10, 11, 14, 16, 19]	13
+Sus Scrofa	[1, 11, 9]	3
+Ailurus Fulgens	[1, 12, 9]	3
+Rusa Unicolor	[1, 3, 8, 9, 10, 11, 16, 20]	8
+Capricornis Milneedwardsii	[1, 2, 3, 8, 9, 10, 14, 16, 20]	9
+Elaphodus Cephalophus	[1, 2, 3, 5, 8, 9, 10, 14, 16, 19, 20]	11
+Rhinopithecus Roxellana	[1, 3, 8, 9, 11, 14, 15, 16]	8
+Hystrix Brachyura	[1, 3, 20, 9]	4
+Ailuropoda Melanoleuca	[1, 3, 4, 5, 6, 7, 9, 10, 13, 14]	10
+Martes Flavigula	[14]	1

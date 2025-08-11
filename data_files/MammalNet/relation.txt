@@ -1,0 +1,173 @@
+panthera	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	12
+leptailurus	[1, 2, 3, 4, 5, 6, 8, 9, 11]	9
+acinonyx	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	12
+vulpes	[0, 1, 2, 3, 4, 6, 7, 8, 9]	9
+capreolus	[0, 2, 3, 6, 8]	5
+felis	[0, 1, 2, 3, 8, 9]	6
+urocyon	[0, 1, 2, 3, 4, 6, 7, 8, 9]	9
+suricata	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]	10
+canis	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	12
+fox	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	11
+bovini	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+rhinoceros	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+hyena	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	12
+hippo	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	12
+procyon	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+erethizon	[0, 1, 2, 3, 4, 5, 6, 8, 11]	9
+lynx	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11]	11
+petaurus	[0, 1, 3, 4, 6, 8]	6
+pongo	[0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11]	11
+tapirus	[0, 1, 2, 3, 4, 5, 6, 7, 11]	9
+caprini	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+elephant	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+equus	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+cavia	[0, 1, 3, 4, 5, 6, 7, 8]	8
+trichechus	[0, 1, 2, 3, 4, 7, 8, 11]	8
+macropus	[0, 1, 2, 3, 4, 5, 6, 8, 11]	9
+orycteropus	[1, 3, 5]	3
+gorilla	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	12
+civet	[1, 2, 3, 4, 6, 8, 9, 11]	8
+giraffa	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+chinchilla	[0, 1, 2, 3, 4, 6, 8, 11]	8
+phacochoerus	[0, 1, 2, 3, 4, 5, 6, 8, 11]	9
+vicugna	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+martes	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11]	11
+squirrel	[0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11]	11
+tursiops	[2, 3, 4, 7, 9, 11]	6
+caracal	[0, 1, 2, 3, 6, 7, 8, 9, 10]	9
+ailuropoda	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11]	11
+pig	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+deer	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+ceratotherium	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+lepus	[0, 1, 2, 3, 4, 8]	6
+phascolarctos	[0, 1, 3, 4, 5, 6, 7, 8]	8
+ursus	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11]	11
+camelus	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+aepycerotinae	[0, 1, 2, 3, 4, 6, 8, 11]	8
+setonix	[0, 1, 2, 8, 11]	5
+mirounga	[1, 2, 3, 4, 5, 8, 9, 11]	8
+sarcophilus	[0, 1, 2, 3, 8]	5
+tragelaphini	[0, 2, 3, 4, 5, 6, 8, 11]	8
+papio	[0, 1, 3, 4, 5, 6, 8]	7
+mesocricetus	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+megaptera	[1, 2, 3, 4, 7, 8, 9, 11]	8
+seal	[1, 2, 3, 4, 5, 7, 8, 9, 10, 11]	10
+lutra	[0, 1, 2, 3, 5, 6, 7, 8, 9]	9
+prionailurus	[1, 2, 3, 4, 5, 6, 8, 9, 11]	9
+cervus	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+muntiacus	[0, 1, 2, 3, 8]	5
+macaca	[0, 2, 3, 4, 5, 6, 7, 8]	8
+mustela	[1, 2, 3, 8, 9, 11]	6
+lama	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+pan	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11]	11
+tamarin	[2, 3, 6]	3
+dipodomys	[8, 1, 2]	3
+tremarctos	[8, 1, 2]	3
+sea lion	[1, 2, 3, 4, 5, 8, 9, 10, 11]	9
+marmota	[0, 1, 3, 5, 6, 8]	6
+nasalis	[8, 1, 3]	3
+alces	[0, 1, 2, 3, 4, 5, 7, 8, 11]	9
+okapia	[2, 3, 4, 5, 11]	5
+indri	[2, 3, 7]	3
+lycaon	[0, 1, 2, 3, 6, 7, 8, 9, 11]	9
+antilopini	[0, 2, 3, 4, 5, 8, 11]	7
+myrmecophaga	[1, 2, 8, 9, 11]	5
+cynomys	[0, 1, 2, 3, 4, 6, 8]	7
+tarsius	[0, 1, 2, 3, 8]	5
+phoca	[1, 2, 3, 4, 6, 7, 8, 9, 11]	9
+armadillo	[0, 1, 2, 3, 8]	5
+halichoerus	[1, 2, 3, 8, 9, 11]	6
+castor	[1, 2, 3, 4, 6, 7, 8]	7
+alcelaphinae	[0, 1, 2, 3, 4, 7, 8, 11]	8
+eubalaena	[3, 11, 4]	3
+saimiri	[8, 1, 2, 3]	4
+melursus	[0, 1, 2, 3, 4, 5, 7, 9]	8
+ondatra	[1, 2, 3, 6, 8]	5
+odobenus	[0, 1, 2, 3, 7, 8, 11]	7
+tamandua	[8, 2]	2
+neomonachus	[1, 2, 4, 8, 9]	5
+nyctereutes	[1, 2, 6, 7, 8, 9, 11]	7
+ornithorhynchus	[1, 2, 3, 6, 9]	5
+ailurus	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+odocoileus	[0, 2, 3, 4, 5, 6, 7, 8]	8
+balaenoptera	[0, 1, 2, 3, 4, 9, 11]	7
+thylogale	[8, 2, 11]	3
+dugong	[8, 1]	2
+hog	[8, 1, 3, 4]	4
+tachyglossus	[1, 2, 3, 9, 11]	5
+vombatus	[0, 2, 3, 7, 8]	5
+hylobates	[0, 2, 3, 6, 7, 8, 11]	7
+ovibovini	[0, 2, 3, 5, 7, 8]	6
+bat	[0, 1, 3, 4, 5, 7, 8]	7
+hydrurga	[1, 2, 5, 7, 8, 9]	6
+rangifer	[0, 1, 2, 4, 5, 8, 11]	7
+enhydra	[0, 1, 2, 3, 4, 6, 7, 8, 9, 11]	10
+alouatta	[1, 2, 3, 5, 6, 7, 8]	7
+treeshrew	[0, 8, 2, 3]	4
+chlorocebus	[8, 2, 4, 6]	4
+helarctos	[0, 1, 2, 3, 8]	5
+diceros	[0, 1, 2, 3, 5, 8, 11]	7
+acerodon	[0, 1, 2, 3, 5, 6, 11]	7
+ateles	[0, 1, 2, 3, 4, 5, 6, 8, 11]	9
+hippotraginae	[8, 0, 2, 1]	4
+mellivora	[0, 2, 3, 6, 7, 8, 9]	7
+mandrillus	[8, 2, 3, 4]	4
+hydrochoerus	[0, 3, 4, 5, 6, 7, 8]	7
+callithrix	[2, 6]	2
+leopardus	[0, 1, 2, 3, 4, 5, 6, 9]	8
+lemmus	[2]	1
+herpestes	[2, 3, 4, 6, 8, 9]	6
+orcinus	[8, 9, 2]	3
+bradypus	[0, 1, 2, 3, 4, 5, 6, 7, 8, 11]	10
+bassariscus	[1, 2, 3, 6, 8]	5
+genetta	[0, 2, 3, 4, 6, 9]	6
+dama	[2, 3, 4, 6, 8, 11]	6
+dendrolagus	[2, 3, 7]	3
+fur seal	[8, 1, 11, 9]	4
+otaria	[8, 9]	2
+reduncinae	[8, 2, 3]	3
+cephalophinae	[0, 8, 2, 6]	4
+erythrocebus	[8, 4, 6]	3
+gulo	[1, 2, 3, 6, 8, 9]	6
+myrmecobius	[2]	1
+catopuma	[8]	1
+pagophilus	[1, 11]	2
+cuon	[9, 2, 3, 1]	4
+physeter	[1, 3]	2
+macrotis	[1, 2, 6]	3
+phalanger	[1]	1
+cryptoprocta	[1, 2, 3, 6, 11]	5
+chrysocyon	[8, 1, 9, 7]	4
+potos	[8, 1, 2, 6]	4
+arctictis	[8, 1, 2, 11]	4
+potamochoerus	[0, 1, 2, 8]	4
+leontopithecus	[2, 3, 6]	3
+neofelis	[0, 1, 2, 6, 9]	5
+antilocapra	[2, 3, 4, 8, 11]	5
+pekania	[2, 3, 5, 7, 9]	5
+cebus	[8, 1]	2
+tupaia	[2]	1
+lagothrix	[8, 0, 2, 3]	4
+perameles	[8, 0, 2]	3
+pardofelis	[2]	1
+priodontes	[0]	1
+pseudorca	[9, 2]	2
+ectophylla	[2]	1
+arvicola	[8, 2, 6]	3
+neotragini	[2]	1
+microcebus	[3]	1
+otocolobus	[1, 2, 6, 9]	4
+saguinus	[8, 1, 2, 6]	4
+callorhinus	[2, 6]	2
+dasyurus	[8, 2]	2
+potorous	[2]	1
+eumetopias	[8, 1, 9]	3
+puma	[8, 9]	2
+nasua_nasuella	[8, 0]	2
+hylochoerus	[8]	1
+myotis	[2]	1
+dicerorhinus	[11, 3, 4]	3
+elaphurus	[8]	1
+lagenorhynchus	[3]	1
+tadarida	[5]	1
+cacajao	[2]	1
